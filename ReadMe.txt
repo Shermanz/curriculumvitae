@@ -1,3 +1,6 @@
+Tema modificado por Vitor "Shermanz" Silva
+Todos os creditos do template para:
+
 Free Bootstrap Resume/CV Template for developers
 
 Theme name:
